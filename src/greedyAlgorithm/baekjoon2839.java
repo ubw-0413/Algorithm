@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class baekjoon2839 {
 	public static void main(String[] args) {
-		
 		int N;
 		int cnt = 0;
 		
@@ -25,6 +24,5 @@ public class baekjoon2839 {
 				break;
 			}
 		}
-		
-	}
+	}	
 }
